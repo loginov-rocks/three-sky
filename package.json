@@ -1,0 +1,24 @@
+{
+  "name": "three-sky",
+  "version": "1.0.0",
+  "description": "Three.js Sky object from official repo examples",
+  "main": "Sky.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1oginov/three-sky.git"
+  },
+  "keywords": [
+    "three",
+    "three.js",
+    "sky"
+  ],
+  "author": "Danila Loginov <danila@loginov.rocks> (https://loginov.rocks)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/1oginov/three-sky/issues"
+  },
+  "homepage": "https://github.com/1oginov/three-sky",
+  "peerDependencies": {
+    "three": ">= 0.88"
+  }
+}
