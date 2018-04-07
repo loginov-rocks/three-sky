@@ -1,6 +1,6 @@
 {
   "name": "three-sky",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Three.js Sky object from official repository example",
   "main": "./src/Sky.js",
   "scripts": {
