@@ -1,8 +1,11 @@
 {
   "name": "three-sky",
   "version": "1.0.0",
-  "description": "Three.js Sky object from official repo examples",
-  "main": "Sky.js",
+  "description": "Three.js Sky object from official repository example",
+  "main": "./src/Sky.js",
+  "scripts": {
+    "lint": "eslint ./src/"
+  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/1oginov/three-sky.git"
@@ -18,6 +21,10 @@
     "url": "https://github.com/1oginov/three-sky/issues"
   },
   "homepage": "https://github.com/1oginov/three-sky",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-google": "^0.9.1"
+  },
   "peerDependencies": {
     "three": ">= 0.88"
   }
