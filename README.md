@@ -1,5 +1,6 @@
 # three-sky
 
+[![NpmVersion](https://img.shields.io/npm/v/three-sky.svg)](https://www.npmjs.com/package/three-sky)
 [![peerDependencies Status](https://david-dm.org/loginov-rocks/three-sky/peer-status.svg)](https://david-dm.org/loginov-rocks/three-sky?type=peer)
 [![devDependencies Status](https://david-dm.org/loginov-rocks/three-sky/dev-status.svg)](https://david-dm.org/loginov-rocks/three-sky?type=dev)
 
