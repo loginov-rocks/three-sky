@@ -1,5 +1,3 @@
-/* eslint max-len: "off", no-tabs: "off" */
-
 const THREE = require('three');
 
 /**
@@ -36,7 +34,7 @@ const Sky = function() {
 Sky.prototype = Object.create(THREE.Mesh.prototype);
 
 Sky.SkyShader = {
-
+  /* eslint-disable max-len, no-tabs */
   uniforms: {
     luminance: {value: 1},
     turbidity: {value: 2},
@@ -220,7 +218,7 @@ Sky.SkyShader = {
 
     '}',
   ].join('\n'),
-
+  /* eslint-enable max-len, no-tabs */
 };
 
 module.exports = Sky;
