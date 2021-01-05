@@ -1,16 +1,15 @@
 # three-sky
 
-[![NpmVersion](https://img.shields.io/npm/v/three-sky.svg)](https://www.npmjs.com/package/three-sky)
-[![peerDependencies Status](https://david-dm.org/loginov-rocks/three-sky/peer-status.svg)](https://david-dm.org/loginov-rocks/three-sky?type=peer)
-[![devDependencies Status](https://david-dm.org/loginov-rocks/three-sky/dev-status.svg)](https://david-dm.org/loginov-rocks/three-sky?type=dev)
+[![npm](https://img.shields.io/npm/v/three-sky)](https://www.npmjs.com/package/three-sky)
+[![CI](https://github.com/loginov-rocks/three-sky/workflows/CI/badge.svg)](https://github.com/loginov-rocks/three-sky/actions)
 
 Three.js Sky object from official repository [example](https://threejs.org/examples/#webgl_shaders_sky).
 
 All credit goes to [Sky.js](https://github.com/mrdoob/three.js/blob/master/examples/js/objects/Sky.js) contributors.
 
-![Teaser](https://raw.githubusercontent.com/loginov-rocks/three-sky/master/misc/teaser.png)
+![Teaser](https://raw.githubusercontent.com/loginov-rocks/three-sky/main/misc/teaser.png)
 
-## Quick start
+## Quick Start
 
 ### Install
 
