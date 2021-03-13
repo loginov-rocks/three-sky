@@ -1,7 +1,8 @@
 # three-sky
 
 [![npm](https://img.shields.io/npm/v/three-sky)](https://www.npmjs.com/package/three-sky)
-[![CI](https://github.com/loginov-rocks/three-sky/workflows/CI/badge.svg)](https://github.com/loginov-rocks/three-sky/actions)
+[![CI](https://github.com/loginov-rocks/three-sky/actions/workflows/ci.yml/badge.svg)](https://github.com/loginov-rocks/three-sky/actions/workflows/ci.yml)
+[![CD](https://github.com/loginov-rocks/three-sky/actions/workflows/cd.yml/badge.svg)](https://github.com/loginov-rocks/three-sky/actions/workflows/cd.yml)
 
 Three.js Sky object from official repository [example](https://threejs.org/examples/#webgl_shaders_sky).
 
